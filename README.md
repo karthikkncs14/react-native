@@ -41,3 +41,4 @@ The grading of the app will be based off of three criteria:
 30% - UI and UX
 40% - Overall Design and Structure
 30% - Data Management and Store
+
