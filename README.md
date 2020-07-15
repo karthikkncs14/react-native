@@ -19,7 +19,7 @@ Issue a Pull Request
 3. Impress us with your skills
 
 Challenge
-Guidesly have many fishing lake that he can't keep track of all of them. He needs some way to keep track of all of his fish lake
+Guidesly have many fishing lake that he can't keep track of all of them. He needs some way to keep track of all of his fishing lake
 
 Requirements
 Your app should be able to complete the following tasks:
